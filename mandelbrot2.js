@@ -21,7 +21,7 @@ function fragmentShader(){
   
    float rec = uv.x;
    float imc = uv.y;
-   float rez = sin(0.1*time);
+   float rez = sin(0.3*time);
    float imz = 0.0;
    int n ;
    float modz;
